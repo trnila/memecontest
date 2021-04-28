@@ -1,0 +1,7 @@
+local_settings.py
+memes
+__pycache__
+node_modules/
+venv
+public/bundle.js
+public/bundle.js.map
